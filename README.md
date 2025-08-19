@@ -17,7 +17,8 @@ This app allows users to:
 - Local Storage
 
 ## 📸 Screenshot
-![Preview](screenshot.png)
+ <img width="1861" height="892" alt="image" src="https://github.com/user-attachments/assets/4e0b39fb-36e0-41e8-8fa9-224f2f1d9d77" />
+
 
 ## ✨ Features
 - Clean and modern UI
