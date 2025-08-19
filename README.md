@@ -9,7 +9,7 @@ This app allows users to:
 
 ## 🚀 Live Demo
 
-
+ https://zekra171.github.io/task-manager-app/
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
